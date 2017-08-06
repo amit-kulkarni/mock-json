@@ -1,0 +1,27 @@
+{
+  "name": "mock-json",
+  "version": "1.0.0",
+  "description": "Mocks JSON response for web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-kulkarni/mock-json.git"
+  },
+  "keywords": [
+    "JSON",
+    "MOCK"
+  ],
+  "author": "Amit Kulkarni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amit-kulkarni/mock-json/issues"
+  },
+  "homepage": "https://github.com/amit-kulkarni/mock-json#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
